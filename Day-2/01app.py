@@ -3,4 +3,6 @@
 
 # Varibales program :--------
 name = "Nitish"
-print(name)
+# print(name)
+my_dict = {"name": "John", "age": 25, "is_student": True}
+print(my_dict["name"]) 
